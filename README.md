@@ -1,188 +1,147 @@
+<!-- Header Section -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hazari+Tejash+👋;AI%2FML+Engineer;Full-Stack+Developer;Data+Structures+Enthusiast" alt="Typing SVG" />
+  
+  <p align="center">
+    <b>Building scalable web applications, fine-tuning large language models, and solving complex algorithmic challenges.</b>
+  </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hazari%20Tejash&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=ffffff" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com)
-[![Email](https://img.shields.io/badge/hazaritejash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazaritejash@gmail.com)
+  <br><br>
 
+  <!-- Social Badges -->
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hazaritejash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="YOUR_CODOLIO_URL"><img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/></a>
 </div>
 
 ---
 
-## 👋 About Me
+### 👨‍💻 Executive Summary
 
-```python
-class Tejash:
-    name        = "Hazari Tejash"
-    role        = "Full Stack Developer & AI/ML Enthusiast"
-    education   = "B.Tech CSE (AIML) @ GRIET, Hyderabad — 2023–2027"
-    currently   = "3rd Year Student | Open to Internships & Collaborations"
-    experience  = ["AI Intern @ Viswam AI (Meta Project)", "Open Source Contributor"]
-    passion     = ["Building AI-powered apps", "Solving DSA problems", "Clean code"]
-    fun_fact    = "I've solved 1000+ DSA problems and I'm just getting started 🚀"
-` ` `
+As a 4th-year **Computer Science and Engineering (AIML)** student at Gokaraju Rangaraju Institute of Engineering and Technology (CGPA: 7.11/10.0), I bridge the gap between artificial intelligence and highly scalable web architecture. My work focuses on building zero-latency full-stack platforms and optimizing AI models for real-world usability. 
+
+- 💼 **Currently:** AI-Intern at **Viswam AI (Meta)**, fine-tuning LLMs for Indic languages and building RAG pipelines.
+- 🎯 **Milestone:** Solved **1000+ Data Structures & Algorithms** questions across major coding platforms.
+- 🚀 **Core Competencies:** Big Data Analytics, Machine Learning, Full Stack Development, API Design, and System Optimization.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### AI / Big Data
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![GenAI](https://img.shields.io/badge/GenAI-6C63FF?style=flat-square&logo=openai&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HBase](https://img.shields.io/badge/HBase-D22128?style=flat-square&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 💼 Experience
-
-### 🤖 AI Intern — Viswam AI (Meta Project)
-> *Python · GitLab · Streamlit · RAG Pipelines · LLMs*
-
-- Fine-tuned **large language models (LLMs)** for multilingual Indic language capabilities
-- Built **RAG pipelines** with custom embeddings and dynamic inference flows via Streamlit
-- Applied **prompt engineering** to boost model accuracy, coherence, and usability
-- Automated LLM evaluation workflows, accelerating development cycles
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>🎨 SnapShots</h3>
-      <p><em>Next.js · TypeScript · Tailwind CSS · Canvas API</em></p>
-      <ul>
-        <li>Full-stack mockup generation platform for 200+ product creators</li>
-        <li>Zero-latency client-side rendering via Canvas API — 100% user data privacy</li>
-        <li><strong>75% reduction</strong> in manual design time with multi-platform export engine</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎬 TextBehindVideo</h3>
-      <p><em>Next.js · Cloudinary AI · Framer Motion · Tailwind CSS</em></p>
-      <ul>
-        <li>Cloud-integrated video processing with automated rotoscoping effects</li>
-        <li>AI-powered background removal using Cloudinary for real-time compositing</li>
-        <li>Sub-millisecond UI responsiveness with Framer Motion animations</li>
-      </ul>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="left" width="80%">
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/typescript-%230074c1.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🔄 Todoist-GCal Syncer</h3>
-      <p><em>Next.js · Todoist API · Google Calendar API · OAuth 2.0</em></p>
-      <ul>
-        <li>High-availability sync engine bridging Todoist & Google Calendar</li>
-        <li>Secure OAuth 2.0 pipeline with automated token-refresh logic</li>
-        <li>Conflict-resolution layer ensuring sub-second consistency across platforms</li>
-      </ul>
+    <td align="center" width="20%"><b>Frontend & Mobile</b></td>
+    <td align="left" width="80%">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
     </td>
-    <td width="50%">
-      <h3>🧠 More Coming Soon...</h3>
-      <p><em>Always building something new!</em></p>
-      <ul>
-        <li>Currently exploring AI agents & automation</li>
-        <li>Open to collaboration on interesting projects</li>
-        <li>Check out my repositories below 👇</li>
-      </ul>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Backend & DBs</b></td>
+    <td align="left" width="80%">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/HBase-%231A1A1A.svg?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>AI, Big Data & Tools</b></td>
+    <td align="left" width="80%">
+      <img src="https://img.shields.io/badge/Hadoop-66CC00?style=flat-square&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+      <code>GenAI</code> <code>Ollama</code> <code>XAI (SHAM, LIME)</code> <code>Apache Pig</code> <code>Apache Flume</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Professional Experience
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
+#### **AI-Intern | Viswam AI (Meta)** 
+> *Sep 2023 - Present | Hyderabad, Telangana*
+*   Architected and developed AI-driven applications while fine-tuning Large Language Models (LLMs) using **Python**, significantly advancing multilingual capabilities for Indic languages.
+*   Leveraged prompt engineering and AI optimization techniques to boost response accuracy and usability across real-world scenarios.
+*   Deployed interactive **Streamlit** applications integrating RAG pipelines and custom embeddings to enable seamless experimentation with advanced LLM features.
+*   Built scalable, test-ready codebases via **GitLab** while automating evaluation workflows, accelerating development cycles and ensuring system reliability.
 
 ---
 
-## 🏆 Achievements
+### 🚀 High-Impact Projects
 
-| 🏅 | Achievement |
-|---|---|
-| 💯 | Solved **1000+ DSA problems** across LeetCode, Codeforces & other platforms |
-| 🤝 | **AI Intern** at Viswam AI — contributed to multilingual LLM development |
-| 🎤 | Active participant in **hackathons, technical workshops & events** |
-| 📢 | Experienced in **public speaking & organizing** large-scale tech events |
-| 🎓 | Pursuing B.Tech in **CSE (AIML)** — passionate about the intersection of AI and software |
+<details>
+  <summary><b>🖼️ SnapShots | Full Stack Design Orchestration Platform</b></summary>
+  <br/>
+  <p><i>Tech Stack: Next.js, TypeScript, Tailwind CSS, Canvas API</i></p>
+  <ul>
+    <li>Architected a platform serving a global user base of 200+ product creators that automates production-ready mockup generation.</li>
+    <li>Engineered a zero-latency, client-side rendering pipeline via the <b>Canvas API</b>, ensuring real-time local image transformations and 100% data privacy.</li>
+    <li>Implemented a dynamic multi-platform export engine (App Store, Product Hunt), reducing manual design time by 75%.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🎬 Text Behind Video | AI Video Processing Platform</b></summary>
+  <br/>
+  <p><i>Tech Stack: Next.js, Cloudinary AI, Framer Motion, Tailwind CSS</i></p>
+  <ul>
+    <li>Architected a cloud-integrated platform automating complex "rotoscoping" effects to layer dynamic text behind subjects.</li>
+    <li>Developed a synchronized multi-layer rendering system using <b>Cloudinary's AI</b> background removal for real-time subject isolation.</li>
+    <li>Engineered a sub-millisecond responsive high-fidelity preview interface with <b>Framer Motion</b>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🗓️ Todoist-GCal Syncer | Automation & Scheduling Engine</b></summary>
+  <br/>
+  <p><i>Tech Stack: Next.js, Todoist API, Google Calendar API, OAuth 2.0</i></p>
+  <ul>
+    <li>Architected a high-availability synchronization engine utilizing <b>Webhooks</b> and <b>REST APIs</b> to automate complex task-to-event scheduling workflows.</li>
+    <li>Engineered a secure <b>OAuth 2.0</b> pipeline with automated token-refresh logic, maintaining bi-directional data flow and data isolation.</li>
+    <li>Implemented a robust conflict-resolution layer to prevent race conditions and ensure sub-second consistency across platforms.</li>
+  </ul>
+</details>
 
 ---
 
-## 📈 LeetCode Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="32%" />
+  
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="32%" />
+  
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="32%" />
 </div>
 
----
-
-## 🤝 Let's Connect!
+<br>
 
 <div align="center">
-
-I'm always open to exciting **collaborations**, **internship opportunities**, and **open-source contributions**.  
-Feel free to reach out — let's build something amazing together! 🚀
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazaritejash@gmail.com)
-
+  <i>"Writing code that scales, builds models that learn, and solves problems that matter."</i>
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
-
-*"First, solve the problem. Then, write the code." — John Johnson*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6C63FF&style=flat-square)
-
-</div>
-```
-
----
-
-**3 things to replace before pasting:**
-1. `YOUR_GITHUB_USERNAME` → your actual GitHub username (appears 4 times)
-2. `YOUR_LEETCODE_USERNAME` → your LeetCode username
-3. Update the LinkedIn/Codolio/GitHub badge URLs with your actual profile links
