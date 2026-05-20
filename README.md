@@ -16,13 +16,13 @@
 ## About Me
 
 ```yaml
-name      : Hazari Tejash
-role      : AI/ML Engineer  ×  Full-Stack Developer
-location  : Hyderabad, Telangana, India
-education : B.Tech CSE (AIML)  |  GRIET  |  CGPA 7.11  |  2023–2027
-experience: AI Intern @ Viswam AI (Meta)
-dsa       : 1000+ problems solved
-focus     : Scalable web architecture · Applied machine learning · System design
+Name      : Hazari Tejash
+Role      : AI/ML Engineer  ×  Full-Stack Developer
+Location  : Hyderabad, Telangana, India
+Education : B.Tech CSE (AIML)  |  GRIET  |  CGPA 7.11  |  2023–2027
+Experience: AI Intern @ Viswam AI (Meta)
+DSA       : 1000+ problems solved
+Focus     : Scalable web architecture · Applied machine learning · System design
 ```
 
 ---
