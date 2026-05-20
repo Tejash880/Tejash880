@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d4ff&height=200&section=header&text=Hazari%20Tejash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C3%97%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+# Hazari Tejash
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+%40+Viswam+AI+(Meta);1000%2B+DSA+Problems+Solved+%E2%9C%94;Building+Zero-Latency+Full-Stack+Platforms;RAG+Pipelines+%7C+Indic+Language+AI" />
-
-<br/>
+### AI / ML Engineer · Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazaritejash@gmail.com)
@@ -13,28 +11,23 @@
 
 </div>
 
-<br/>
+---
 
-## 🧬 About Me
+## About Me
 
 ```yaml
 name      : Hazari Tejash
 role      : AI/ML Engineer  ×  Full-Stack Developer
-location  : Hyderabad, Telangana 🇮🇳
-education : B.Tech CSE (AIML) @ GRIET  |  CGPA 7.11  |  2023–2027
-now       : AI Intern @ Viswam AI (Meta)  |  May–June 2025
-dsa       : 1000+ problems solved across major platforms
-superpower: Bridging AI research with production-grade engineering
-focus:
-  - Fine-tuning LLMs for Indic Languages
-  - RAG Pipelines & Custom Embeddings
-  - Zero-latency Full-Stack Architecture
-  - Big Data Analytics & System Design
+location  : Hyderabad, Telangana, India
+education : B.Tech CSE (AIML)  |  GRIET  |  CGPA 7.11  |  2023–2027
+experience: AI Intern @ Viswam AI (Meta)
+dsa       : 1000+ problems solved
+focus     : Scalable web architecture · Applied machine learning · System design
 ```
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -60,7 +53,7 @@ focus:
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00008f?style=flat-square&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![HBase](https://img.shields.io/badge/HBase-1A1A1A?style=flat-square&logo=apache&logoColor=white)
 
@@ -73,102 +66,86 @@ focus:
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 
-`GenAI` · `Ollama` · `RAG` · `SHAP/LIME` · `Prompt Engineering` · `NLP` · `Apache Pig` · `Apache Flume`
-
-<br/>
-
-## 💼 Experience
-
-### 🏢 Viswam AI (Meta) — AI Intern &nbsp; `May 2025 – Jun 2025` &nbsp; · &nbsp; [📜 Certificate](YOUR_CERTIFICATE_LINK)
-
-> `Python` · `Flask` · `Streamlit` · `HuggingFace` · `RAG` · `GitLab`
-
-- Built a data collection & storage app using **Python + Flask**, structuring domain-specific data to feed ML model training pipelines
-- Designed and deployed **Streamlit** apps integrating the **Hugging Face API** for dynamic AI inference and experimentation
-- Applied **prompt engineering** to refine model inference — improving response accuracy across real-world scenarios
-- Automated data pipelines to structure and dispatch datasets for ML training, accelerating collection cycles and boosting reliability
-
-<br/>
-
-## 🚀 Projects
-
-### 🤖 Autograde — AI Answer Evaluation System &nbsp; · &nbsp; [🔗 Live](YOUR_AUTOGRADE_LINK)
-> `Flask` · `Python` · `SQLAlchemy` · `TensorFlow Hub` · `NLP` · `JavaScript`
-
-- Built an AI-powered grading system using **semantic similarity**, **NLP**, and **Natural Language Inference** to auto-evaluate descriptive answers with high contextual accuracy
-- Developed a scalable **role-based academic platform** with teacher/student portals, classroom management, automated submissions, and intelligent grading workflows
-- Implemented **Universal Sentence Encoder**, **TF-IDF similarity**, contradiction detection, and automated PDF extraction pipelines — slashing manual grading effort
+`GenAI` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `SHAP / LIME` &nbsp;·&nbsp; `Prompt Engineering` &nbsp;·&nbsp; `Apache Pig` &nbsp;·&nbsp; `Apache Flume`
 
 ---
 
-### 🖼️ SnapShots — Design Orchestration Platform &nbsp; · &nbsp; [🔗 Live](YOUR_SNAPSHOTS_LINK)
-> `Next.js` · `TypeScript` · `Tailwind CSS` · `Canvas API`
+## Experience
 
-- Built a mockup generation tool used by **200+ product creators** that automates App Store and Product Hunt asset creation
-- Engineered a **zero-latency client-side rendering pipeline** via the **Canvas API** — real-time image transformations fully in-browser, zero server overhead, 100% data privacy
-- Built a multi-platform export engine that auto-scales assets to platform specs, eliminating manual resizing across all format variants
+### Viswam AI (Meta) — AI Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; [Certificate](YOUR_CERTIFICATE_LINK)
 
----
+`Python` &nbsp;`Flask` &nbsp;`Streamlit` &nbsp;`HuggingFace` &nbsp;`GitLab`
 
-### 🎬 TextBehindVideo — AI Video Processing Platform &nbsp; · &nbsp; [🔗 Live](YOUR_TEXTBEHINDVIDEO_LINK)
-> `Next.js` · `Cloudinary AI` · `Framer Motion` · `Tailwind CSS`
-
-- Cloud-integrated platform that automates **rotoscoping** — users layer animated text behind video subjects with zero manual masking
-- Designed a **synchronized multi-layer compositing system** using **Cloudinary AI** background removal for real-time subject isolation
-- Built a high-fidelity preview interface with **Framer Motion**, maintaining smooth **60fps playback** during live text animation editing
+- Built a data collection and storage application using **Python + Flask**, structuring domain-specific datasets for ML model training pipelines
+- Designed and deployed **Streamlit** applications integrating the **Hugging Face API** for AI inference and experimentation
+- Applied prompt engineering techniques to improve model response accuracy and usability across application scenarios
+- Built automated data pipelines to structure and dispatch datasets, accelerating collection cycles and improving reliability
 
 ---
 
-### 🗓️ Todoist-GCal Syncer — Scheduling Automation Engine
-> `Next.js` · `Todoist API` · `Google Calendar API` · `OAuth 2.0`
+## Projects
 
-- Architected a high-availability sync engine using **Webhooks + REST APIs** to automate task-to-calendar scheduling workflows
-- Engineered a secure **OAuth 2.0** pipeline with automated token-refresh logic, maintaining bi-directional data flow
-- Implemented a **conflict-resolution layer** to prevent race conditions and ensure sub-second consistency across platforms
+### Autograde &nbsp;|&nbsp; [Live →](YOUR_AUTOGRADE_LINK)
+`Flask` &nbsp;`Python` &nbsp;`SQLAlchemy` &nbsp;`TensorFlow Hub` &nbsp;`NLP` &nbsp;`JavaScript`
 
-<br/>
+- AI-powered answer evaluation system using semantic similarity and Natural Language Inference to auto-grade descriptive answers
+- Role-based academic platform with teacher/student portals, classroom management, and intelligent grading workflows
+- Implemented Universal Sentence Encoder, TF-IDF similarity, and automated PDF extraction pipelines to eliminate manual grading overhead
 
-## 📊 GitHub Stats
+---
+
+### SnapShots &nbsp;|&nbsp; [Live →](YOUR_SNAPSHOTS_LINK)
+`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Canvas API`
+
+- Mockup generation platform used by **200+ product creators** — automates App Store and Product Hunt asset creation
+- Zero-latency client-side rendering via the Canvas API; all image transformations run in-browser with no server overhead and full data privacy
+- Multi-platform export engine that auto-scales assets to platform specs, eliminating manual resizing across format variants
+
+---
+
+### TextBehindVideo &nbsp;|&nbsp; [Live →](YOUR_TEXTBEHINDVIDEO_LINK)
+`Next.js` &nbsp;`Cloudinary AI` &nbsp;`Framer Motion` &nbsp;`Tailwind CSS`
+
+- Video processing platform that automates rotoscoping — dynamic text layers rendered behind subjects with no manual masking
+- Synchronized multi-layer compositing system with real-time subject isolation via Cloudinary AI background removal
+- High-fidelity preview interface built with Framer Motion, maintaining smooth **60fps playback** during live editing
+
+---
+
+### Todoist-GCal Syncer
+`Next.js` &nbsp;`Todoist API` &nbsp;`Google Calendar API` &nbsp;`OAuth 2.0`
+
+- High-availability sync engine using Webhooks and REST APIs to automate task-to-calendar scheduling workflows
+- Secure OAuth 2.0 pipeline with automated token-refresh logic maintaining bi-directional data flow
+- Conflict-resolution layer preventing race conditions with sub-second consistency across platforms
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="48%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="40%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true)
 
 </div>
 
-<br/>
+---
 
-## 🏆 Achievements
+## Achievements
 
-- 🧩 Solved **1000+ DSA problems** across LeetCode, CodeForces, and other major platforms
-- 🌍 Built production apps used by **200+ real creators** worldwide
-- 🤖 AI Intern @ **Viswam AI (Meta)** — fine-tuning LLMs for Indic languages
-- ⚙️ Automated ML data pipelines, accelerating collection cycles significantly
-- 🎯 Active hackathon participant & technical event organizer
-- 💻 Proficient in **7+ programming languages** across systems, web, and mobile
+- Solved **1000+ DSA problems** across major competitive programming platforms
+- Production apps serving **200+ active users** globally
+- Hackathon participant and technical event organizer
+- Proficient in **7+ programming languages** spanning systems, web, and mobile domains
 
-<br/>
-
-## 📬 Let's Connect
+---
 
 <div align="center">
 
-| | |
-|---|---|
-| 📧 Email | [hazaritejash@gmail.com](mailto:hazaritejash@gmail.com) |
-| 💼 LinkedIn | [Connect](YOUR_LINKEDIN_URL) |
-| 🧩 LeetCode | [My Solutions](YOUR_LEETCODE_URL) |
-| 📊 Codolio | [My Profile](YOUR_CODOLIO_URL) |
-
-<br/>
-
-*"Writing code that scales, models that learn, and solutions that ship."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a3d6b,100:0d1117&height=120&section=footer" />
+*"Writing code that scales, building models that learn, solving problems that matter."*
 
 </div>
