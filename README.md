@@ -1,147 +1,253 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hazari+Tejash+👋;AI%2FML+Engineer;Full-Stack+Developer;Data+Structures+Enthusiast" alt="Typing SVG" />
-  
-  <p align="center">
-    <b>Building scalable web applications, fine-tuning large language models, and solving complex algorithmic challenges.</b>
-  </p>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ██╗  ██╗ █████╗ ███████╗ █████╗ ██████╗ ██╗                  ║
+║    ██║  ██║██╔══██╗╚════██║██╔══██╗██╔══██╗██║                  ║
+║    ███████║███████║    ██╔╝███████║██████╔╝██║                  ║
+║    ██╔══██║██╔══██║   ██╔╝ ██╔══██║██╔══██╗██║                  ║
+║    ██║  ██║██║  ██║   ██║  ██║  ██║██║  ██║██║                  ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝                  ║
+║                                                                  ║
+║              T  E  J  A  S  H                                    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Fine-tuning+LLMs+%40+Viswam+AI+(Meta);1000%2B+DSA+Problems+Conquered;Building+Things+That+Actually+Scale." alt="Typing SVG" />
 
-  <!-- Social Badges -->
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hazaritejash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="YOUR_CODOLIO_URL"><img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/></a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/GMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazaritejash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![Codolio](https://img.shields.io/badge/CODOLIO-%2320232A.svg?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODOLIO_URL)
+
 </div>
 
----
-
-### 👨‍💻 Executive Summary
-
-As a 4th-year **Computer Science and Engineering (AIML)** student at Gokaraju Rangaraju Institute of Engineering and Technology (CGPA: 7.11/10.0), I bridge the gap between artificial intelligence and highly scalable web architecture. My work focuses on building zero-latency full-stack platforms and optimizing AI models for real-world usability. 
-
-- 💼 **Currently:** AI-Intern at **Viswam AI (Meta)**, fine-tuning LLMs for Indic languages and building RAG pipelines.
-- 🎯 **Milestone:** Solved **1000+ Data Structures & Algorithms** questions across major coding platforms.
-- 🚀 **Core Competencies:** Big Data Analytics, Machine Learning, Full Stack Development, API Design, and System Optimization.
+<br/>
 
 ---
 
-### 🛠️ Technical Arsenal
+## `> whoami`
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><b>Languages</b></td>
-    <td align="left" width="80%">
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/typescript-%230074c1.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><b>Frontend & Mobile</b></td>
-    <td align="left" width="80%">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><b>Backend & DBs</b></td>
-    <td align="left" width="80%">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/HBase-%231A1A1A.svg?style=flat-square&logo=apache&logoColor=white" alt="HBase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><b>AI, Big Data & Tools</b></td>
-    <td align="left" width="80%">
-      <img src="https://img.shields.io/badge/Hadoop-66CC00?style=flat-square&logo=apachehadoop&logoColor=white" alt="Hadoop" />
-      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-      <code>GenAI</code> <code>Ollama</code> <code>XAI (SHAM, LIME)</code> <code>Apache Pig</code> <code>Apache Flume</code>
-    </td>
-  </tr>
+```yaml
+name        : Hazari Tejash
+role        : AI/ML Engineer × Full-Stack Developer
+location    : Hyderabad, Telangana 🇮🇳
+education   : B.Tech CSE (AIML) @ GRIET | CGPA 7.11/10.0 | 2023–2027
+current     : AI Intern @ Viswam AI (Meta) — May 2025 to June 2025
+focus_areas :
+  - Fine-tuning LLMs for Indic Languages
+  - RAG Pipelines & Custom Embeddings
+  - Zero-latency Full-Stack Platforms
+  - Big Data Analytics & System Design
+dsa_solved  : 1000+ problems across major coding platforms
+superpower  : Bridging AI research with production-grade engineering
+```
+
+---
+
+## `> cat skills.json`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230074c1.svg?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### ⚡ Frontend & Mobile
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-%231A1A1A.svg?style=flat-square&logo=apache&logoColor=white)
+
+### 🤖 AI / Big Data / Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=flat-square&logo=apachehadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+
+`GenAI` · `Ollama` · `RAG` · `XAI (SHAP/LIME)` · `Prompt Engineering` · `NLP`
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 💼 Professional Experience
+## `> ls -la ./experience/`
 
-#### **AI-Intern | Viswam AI (Meta)** 
-> *Sep 2023 - Present | Hyderabad, Telangana*
-*   Architected and developed AI-driven applications while fine-tuning Large Language Models (LLMs) using **Python**, significantly advancing multilingual capabilities for Indic languages.
-*   Leveraged prompt engineering and AI optimization techniques to boost response accuracy and usability across real-world scenarios.
-*   Deployed interactive **Streamlit** applications integrating RAG pipelines and custom embeddings to enable seamless experimentation with advanced LLM features.
-*   Built scalable, test-ready codebases via **GitLab** while automating evaluation workflows, accelerating development cycles and ensuring system reliability.
+<br/>
 
----
-
-### 🚀 High-Impact Projects
-
-<details>
-  <summary><b>🖼️ SnapShots | Full Stack Design Orchestration Platform</b></summary>
-  <br/>
-  <p><i>Tech Stack: Next.js, TypeScript, Tailwind CSS, Canvas API</i></p>
-  <ul>
-    <li>Architected a platform serving a global user base of 200+ product creators that automates production-ready mockup generation.</li>
-    <li>Engineered a zero-latency, client-side rendering pipeline via the <b>Canvas API</b>, ensuring real-time local image transformations and 100% data privacy.</li>
-    <li>Implemented a dynamic multi-platform export engine (App Store, Product Hunt), reducing manual design time by 75%.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🎬 Text Behind Video | AI Video Processing Platform</b></summary>
-  <br/>
-  <p><i>Tech Stack: Next.js, Cloudinary AI, Framer Motion, Tailwind CSS</i></p>
-  <ul>
-    <li>Architected a cloud-integrated platform automating complex "rotoscoping" effects to layer dynamic text behind subjects.</li>
-    <li>Developed a synchronized multi-layer rendering system using <b>Cloudinary's AI</b> background removal for real-time subject isolation.</li>
-    <li>Engineered a sub-millisecond responsive high-fidelity preview interface with <b>Framer Motion</b>.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🗓️ Todoist-GCal Syncer | Automation & Scheduling Engine</b></summary>
-  <br/>
-  <p><i>Tech Stack: Next.js, Todoist API, Google Calendar API, OAuth 2.0</i></p>
-  <ul>
-    <li>Architected a high-availability synchronization engine utilizing <b>Webhooks</b> and <b>REST APIs</b> to automate complex task-to-event scheduling workflows.</li>
-    <li>Engineered a secure <b>OAuth 2.0</b> pipeline with automated token-refresh logic, maintaining bi-directional data flow and data isolation.</li>
-    <li>Implemented a robust conflict-resolution layer to prevent race conditions and ensure sub-second consistency across platforms.</li>
-  </ul>
-</details>
+> ### 🏢 Viswam AI — Meta &nbsp;|&nbsp; AI Intern &nbsp;|&nbsp; May 2025 – June 2025 &nbsp;|&nbsp; [📜 Certificate](YOUR_CERTIFICATE_LINK)
+> **`Python` · `Flask` · `Streamlit` · `HuggingFace` · `RAG` · `GitLab`**
+>
+> - Built a data collection and storage application using **Python + Flask**, structuring domain-specific data to feed ML model training pipelines.
+> - Designed and deployed **Streamlit** apps integrating the **Hugging Face API** for dynamic AI inference and experimentation.
+> - Applied **prompt engineering** techniques to refine model inference, improving response accuracy and usability across real-world scenarios.
+> - Automated data pipelines to structure and dispatch datasets for ML training — accelerating collection cycles and boosting dataset reliability.
 
 ---
 
-### 📊 GitHub Analytics
+## `> ls -la ./projects/`
+
+<br/>
+
+<details>
+<summary><b>🤖 &nbsp; Autograde &nbsp;—&nbsp; AI-Powered Answer Evaluation System</b></summary>
+<br/>
+
+**`Flask` · `Python` · `SQLAlchemy` · `TensorFlow Hub` · `NLP` · `JavaScript`** &nbsp;&nbsp; [🚀 Live Demo](YOUR_AUTOGRADE_LINK)
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Teacher uploads questions → Student submits answers         │
+│  AI engine evaluates semantics → Grades assigned instantly   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+- Built an AI-powered answer evaluation system using **semantic similarity**, **NLP**, and **Natural Language Inference** to auto-grade descriptive answers with high contextual accuracy.
+- Developed a scalable **role-based academic platform** with teacher/student portals, classroom management, automated submissions, and intelligent grading workflows.
+- Implemented **Universal Sentence Encoder**, **TF-IDF similarity**, contradiction detection, and automated PDF extraction pipelines — drastically reducing manual grading effort.
+
+</details>
+
+<details>
+<summary><b>🖼️ &nbsp; SnapShots &nbsp;—&nbsp; Full-Stack Design Orchestration Platform</b></summary>
+<br/>
+
+**`Next.js` · `TypeScript` · `Tailwind CSS` · `Canvas API`** &nbsp;&nbsp; [🚀 Live Demo](YOUR_SNAPSHOTS_LINK)
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Upload device frame → Drop in screenshot → Export instantly │
+│  Zero server calls · 100% in-browser · 200+ creators served │
+└─────────────────────────────────────────────────────────────┘
+```
+
+- Built a mockup generation tool that automates **App Store** and **Product Hunt** asset creation — used by **200+ product creators**.
+- Engineered a **zero-latency client-side rendering pipeline** via the **Canvas API**, enabling real-time image transformations locally — eliminating server overhead and ensuring 100% data privacy.
+- Built a multi-platform export engine that auto-scales assets to platform specs, eliminating manual resizing across format variants.
+
+</details>
+
+<details>
+<summary><b>🎬 &nbsp; TextBehindVideo &nbsp;—&nbsp; AI Video Processing Platform</b></summary>
+<br/>
+
+**`Next.js` · `Cloudinary AI` · `Framer Motion` · `Tailwind CSS`** &nbsp;&nbsp; [🚀 Live Demo](YOUR_TEXTBEHINDVIDEO_LINK)
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Upload video → AI isolates subject → Text renders behind   │
+│  No manual masking · Smooth 60fps preview · Frame-accurate  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+- Built a cloud-integrated video processing platform that automates **rotoscoping** — users layer animated text behind subjects without any manual masking.
+- Designed a **synchronized multi-layer compositing system** that isolates foreground subjects in real-time using **Cloudinary AI** background removal.
+- Built a high-fidelity preview interface with **Framer Motion**, maintaining smooth **60fps playback** during live text animation editing over heavy video assets.
+
+</details>
+
+<details>
+<summary><b>🗓️ &nbsp; Todoist-GCal Syncer &nbsp;—&nbsp; Automation & Scheduling Engine</b></summary>
+<br/>
+
+**`Next.js` · `Todoist API` · `Google Calendar API` · `OAuth 2.0`**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Todoist task created → Webhook fires → GCal event synced   │
+│  Bi-directional · Conflict-safe · Sub-second consistency    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+- Architected a high-availability synchronization engine using **Webhooks + REST APIs** to automate task-to-event scheduling workflows.
+- Engineered a secure **OAuth 2.0** pipeline with automated token-refresh logic, maintaining bi-directional data flow and full data isolation.
+- Implemented a robust **conflict-resolution layer** to prevent race conditions and guarantee sub-second consistency across platforms.
+
+</details>
+
+---
+
+## `> cat achievements.log`
+
+```
+[★] Solved 1000+ DSA problems across LeetCode, CodeForces, and other major platforms
+[★] Built production apps actively used by 200+ real creators worldwide
+[★] AI Intern @ Viswam AI (Meta-backed) — fine-tuning LLMs for Indic languages
+[★] Automated ML data pipelines cutting collection time significantly
+[★] Participated in Hackathons and led key organizational/technical roles
+[★] Mastered 7+ programming languages across systems, web, and mobile domains
+```
+
+---
+
+## `> git log --stat`
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="32%" />
-  
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="32%" />
-  
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="32%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Top Languages" width="40%" />
+
 </div>
 
-<br>
+<br/>
+
+---
+
+## `> ping tejash`
 
 <div align="center">
-  <i>"Writing code that scales, builds models that learn, and solves problems that matter."</i>
+
+| Platform | Handle |
+|----------|--------|
+| 📧 Email | [hazaritejash@gmail.com](mailto:hazaritejash@gmail.com) |
+| 💼 LinkedIn | [Connect with me](YOUR_LINKEDIN_URL) |
+| 🧩 LeetCode | [View my solutions](YOUR_LEETCODE_URL) |
+| 📊 Codolio | [My coding profile](YOUR_CODOLIO_URL) |
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Writing code that scales, models that learn,          ║
+║    and solutions that ship."                             ║
+║                                                          ║
+║                               — Hazari Tejash            ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
